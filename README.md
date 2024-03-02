@@ -3,17 +3,22 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitmourya12&label=Profile%20views&color=0e75b6&style=flat" alt="ankitmourya12" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitmourya12" alt="ankitmourya12" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/ankitmaury41117" target="blank"><img src="https://img.shields.io/twitter/follow/ankitmaury41117?logo=twitter&style=for-the-badge" alt="ankitmaury41117" /></a> </p>
+<br>
 
 - 🌱 I’m currently learning **react,DBMS,node.js**
 
 - 💬 Ask me about **DSA,C++,C,Frontend development**
 
 - 📫 How to reach me **ankit.mourya8233@gmail.com**
+
+
+<br><p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitmourya12&label=Profile%20views&color=0e75b6&style=flat" alt="ankitmourya12" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitmourya12" alt="ankitmourya12" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/ankitmaury41117" target="blank"><img src="https://img.shields.io/twitter/follow/ankitmaury41117?logo=twitter&style=for-the-badge" alt="ankitmaury41117" /></a> </p>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
