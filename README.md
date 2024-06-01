@@ -4,6 +4,7 @@
 
 
 <br>
+ - 📫 Mentor and Contributor GSSoC'24
 
 - 🌱 I’m currently learning **react,DBMS,node.js**
 
