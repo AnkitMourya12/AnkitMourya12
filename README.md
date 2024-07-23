@@ -42,4 +42,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitmourya12&show_icons=true&locale=en" alt="ankitmourya12" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitmourya12&" alt="ankitmourya12" /></p>
+<h3 align="left">GSSOC 2024 contributor Badge</h3>
+<img align="left"  alt="GSSOC Badge" width="400" src="https://github.com/AnkitMourya12/-CrackYourPlacement/blob/main/GssocBadge.png">
+
 
