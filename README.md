@@ -4,7 +4,7 @@
 
 
 <br>
-  - 🌱 HackIndia Web3 Hackathon Winner and Qualified for National level
+  - 🌱 HackIndia24 Web3 Hackathon Winner on state level and Qualified for National level
 
  - 📫 Mentor and Contributor GSSoC'24
 
