@@ -1,3 +1,9 @@
+
+
+<div align="center">
+    <img src="https://github.com/AnkitMourya12/votingSystem_node.Js_project/blob/master/banner.png" alt="Profile Banner" width="100%" height="300px">
+</div>
+
 <h1 align="center">Hi 👋, I'm Ankit Mourya</h1>
 <h3 align="center">A passionate MERN Stack developer and Data Analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
