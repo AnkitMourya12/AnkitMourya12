@@ -41,7 +41,7 @@
 <a href="https://auth.geeksforgeeks.org/user/ankitmou1vfk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ankitmou1vfk" height="30" width="40" /></a>
 </p>
 
-## GSSOC(24) Badges 🪶
+<!--## GSSOC(24) Badges 🪶-->
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
 <!-- <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
@@ -49,7 +49,7 @@
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" /> -->
-  <details><summary>🚀 Open Source Contributions:</summary>
+<!--   <details><summary>🚀 Open Source Contributions:</summary>
   <br>
   <table width="100%" align="center">
     <tr>
@@ -66,7 +66,7 @@
     </tr>
     
   </table>
-</details>
+</details> -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
@@ -92,6 +92,41 @@
 </table>
 
 <br>
+🏆 Gssoc(24) Badges<br>
+  <details><summary>🚀 Open Source Contributions:</summary>
+  <br>
+  <table width="100%" align="center">
+    <tr>
+    </tr>
+    <tr>
+      <td>GirlScript Summer of Code (GSSoC'24) </td>
+      <td>
+        <ul>
+          <li>Role: <strong>Open Source Contributor</strong></li>
+          <li>Contributed to multiple open-source projects.</li>
+          <li>Fixed UI/UX issues and Bugs, added FAQs, and enhanced features.</li>
+        </ul>
+      </td>
+    </tr>
+    
+  </table>
+</details>
+<br>
+
+<div style="display: flex; justify-content: space-around;">
+<img src="https://gssoc.girlscript.tech/badges/1.png?imwidth=96" width="150" alt="Gssoc extd Badge">
+<img src="https://gssoc.girlscript.tech/badges/2.png?imwidth=96" width="150" alt="Gssoc extd Badge">
+<img src="https://gssoc.girlscript.tech/badges/3.png?imwidth=96" width="150" alt="Gssoc extd Badge">
+<img src="https://gssoc.girlscript.tech/badges/4.png?imwidth=96" width="150" alt="Gssoc extd Badge">
+<img src="https://gssoc.girlscript.tech/badges/5.png?imwidth=96" width="150" alt="Gssoc extd Badge">
+</div><br>
+
+🏆 Postman(24) Badges
+<div style="display: flex; justify-content: space-around;">
+<img src="https://gssoc.girlscript.tech/badges/postman.png?imwidth=96" width="150" alt="Gssoc extd Badge">
+
+</div><br>
+
 <p align="center">
   <b>Thank you for visiting my profile! 😊</b>
 </p>
@@ -109,7 +144,7 @@
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" /> -->
 </div>
- <h3 align="left">GSSOC 2024 contributor Badge</h3>
+<!--  <h3 align="left">GSSOC 2024 contributor Badge</h3>
 <img align="left"  alt="GSSOC Badge" width="400" src="https://github.com/AnkitMourya12/-CrackYourPlacement/blob/main/GssocBadge.png"> 
-
+ -->
 
