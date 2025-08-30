@@ -14,9 +14,9 @@
 
  - 📫 Mentor and Contributor GSSoC'24
 
-- 🌱 I’m currently learning **react,DBMS,node.js,Linux**
+ - 🌱 I’m currently learning **JAVA**
 
-- 💬 Ask me about **DSA,C++,C,Frontend development**
+- 💬 Ask me about **DSA,C++,C,MERN Stack,Linux**
 
 - 📫 How to reach me **ankit.mourya8233@gmail.com**
 
